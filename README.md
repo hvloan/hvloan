@@ -23,13 +23,13 @@
 ---
 
 ### :man_technologist: About Me :
-I am Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Viet Nam.
+I am Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - 🌱 I’m currently learning **Android Kotlin, Flutter, Firebase, v.v**
 
 - 🤔  Actually, I'm interested in Android the most !!
 
-- 💬 Ask me about **Android Studio**
+- 💬 Ask me about **Android Kotlin**
 
 - 📫 How to reach me **hvloan09@gmail.com**
 
@@ -43,7 +43,7 @@ I am Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
    
    <br />
    
-   <img src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+   <img src="https://img.shields.io/badge/Java-blue?style=for-the-badge&logo=Java&logoColor=white" alt="Java"/>
    
    <img src="https://img.shields.io/badge/Kotlin-darkviolet?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
    
@@ -53,9 +53,9 @@ I am Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
    
    <img src="https://img.shields.io/badge/C-mediumblue?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
    
-   <img src="https://img.shields.io/badge/HTML-green?style=for-the-badge&logo=html&logoColor=white" alt="HTML"/>
+   <img src="https://img.shields.io/badge/HTML-green?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
       
-   <img src="https://img.shields.io/badge/CSS-royalblue?style=for-the-badge&logo=css&logoColor=white" alt="CSS"/>
+   <img src="https://img.shields.io/badge/CSS-royalblue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
       
    <img src="https://img.shields.io/badge/JavaScript-orrange?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
    
@@ -73,11 +73,11 @@ I am Android Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
    
    <br />
    
-   <img src="https://img.shields.io/badge/AndroidStudio-mediumseagreen?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio"/>
+   <img src="https://img.shields.io/badge/Android Studio-mediumseagreen?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio"/>
    
-   <img src="https://img.shields.io/badge/VisualStudioCode-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
+   <img src="https://img.shields.io/badge/Visual Studio Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code"/>
    
-   <img src="https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellij&logoColor=white" alt="IntelliJ"/>
+   <img src="https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ"/>
    
 </div>
 
